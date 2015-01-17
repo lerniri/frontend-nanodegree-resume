@@ -1,11 +1,12 @@
-## This is a completed project 2 for Front-End Web Developer nanodegree .
+<h4>This is a completed project 2 for Front-End Web Developer nanodegree .</h4>
 
-## The following sources were refered to during execution
+<h5>The following sources were refered to during execution</h5>
+
 1. jQuery API (http://api.jquery.com/)
 2. MDN (https://developer.mozilla.org/ru/)
 3. w3schools (http://www.w3schools.com/)
 
-
+<hr>
 
 
 
