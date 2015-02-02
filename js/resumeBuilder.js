@@ -12,7 +12,7 @@ var bio = {
       	"twitter": "@lerniri",
       	"location": "Moscow, Russia"
      },
-	"welcomeMessage": "",
+	"welcomeMessage": "Hi, I'm Ira! I call myself sort of wide-range IT specialist and I've got 10 yrs experience at various stages of SDLC. My current focus is Wev Development and I'm hoping to be a front-end dev ninja very soon!",
 	"skills": [
 		{
 			"skill":"Analytical mind",
